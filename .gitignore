@@ -1,0 +1,9 @@
+.env
+secrets/db_password.txt
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+*.pyo
+*.pyd
+*.log
